@@ -1,0 +1,67 @@
+#wrapper{
+width: 900px;
+border:2px dashed black;
+margin: 0px auto;
+color: white;
+}
+
+#search{
+float:right;
+margin: 0px 4px ;
+}
+
+#tnav{
+width:auto;
+height:40px;
+border:2px dashed black;
+
+}
+#banner{
+width:auto;
+height:200px;
+border:2px dashed black;
+
+}
+#leftside{
+width:200px;
+height: 300px;
+float: left;
+border:2px dashed black;
+
+}
+ul{
+height:100px;
+background-color:black;
+transition:height 1s;
+}
+
+ul:hover{
+background-color:yellow;
+height:150px;
+}
+
+#main{
+width:488px;
+height:600px;
+border:2px dashed black;
+float:left;
+
+}
+#rightside{ 
+width:200px;
+height: 300px;
+float: left;
+border:2px dashed black;
+
+}
+#bnav{
+width:auto;
+height:40px;
+border:2px dashed black;
+clear: both;
+}
+#footer{
+width:auto;
+height:60px;
+border:2px dashed black;
+}
